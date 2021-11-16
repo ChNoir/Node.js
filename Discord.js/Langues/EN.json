@@ -1,0 +1,14 @@
+{
+    "Erreur" : "Error",
+    "ERREUR_COMMENDE_UNDEFINED_Description" : "This order does not exist",
+    "ERREUR_MESSAGE_FLAG_Description" : "The return message is not defined, please notify an administrator",
+    "ERREUR_COMMENDE_UNDEFINED_DM_Description" : "The default prefix is : ^^ ",
+    "ERREUR_MESSAGE_DM_Description" : "This command is not accessible in private message",
+    "LANGUE_DISPLAY_Author" : "The available langangue :",
+    "LANGUE_UPDATE_Description" : "The change has been applied",
+    "LANGUE_DISPLAY_Footer" : "  >  Selected language ",
+    "ERREUR_COMMENDE_ARG_Description_0" : "<Erreur> La sélection de la descrition ne pas defini <Erreur> ",
+    "ERREUR_COMMENDE_ARG_Description_1" : "L'argument n'est pas valable, veuillez saisir un argument valable ",
+    "ERREUR_COMMENDE_ARG_Description_2" : "L'argument ne peut contenir que 2 caractère"
+
+}

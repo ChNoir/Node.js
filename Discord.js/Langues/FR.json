@@ -1,0 +1,17 @@
+{
+    "Erreur" : "Erreur",
+    "ERREUR_COMMENDE_UNDEFINED_Description" : "Cette commende n'existe pas",
+    "ERREUR_MESSAGE_FLAG_Description" : "le message de retour n'est pas défini, veuillez prévenir un administrateur",
+    "ERREUR_COMMENDE_UNDEFINED_DM_Description" : "Le prefix par defaut est : ^^ ",
+    "ERREUR_MESSAGE_DM_Description" : "Cette commande n'est pas accessible en message prive",
+    "LANGUE_DISPLAY_Author" : "Les langangue Disponible :",
+    "LANGUE_UPDATE_Description" : "La modification a été appliquée",
+    "LANGUE_DISPLAY_Footer" : "  >  Langue sélectionnée ",
+    "ERREUR_COMMENDE_ARG_Description_0" : "<Erreur> La sélection de la descrition ne pas etait defini <Erreur> ",
+    "ERREUR_COMMENDE_ARG_Description_1" : "L'argument n'est pas valable, veuillez saisir un argument valable ",
+    "ERREUR_COMMENDE_ARG_Description_2" : "L'argument ne peut contenir que 2 caractère"
+
+
+
+
+}
